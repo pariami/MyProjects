@@ -67,11 +67,6 @@ Contributions are welcome! Please fork the repository, make your changes, and su
 
 ---
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
 ## Acknowledgments
 This app leverages the [Currency API by Paysera](https://developers.paysera.com) for real-time exchange rates and currency information.
 
